@@ -10,5 +10,5 @@
 ## Page 3
 ![image](https://user-images.githubusercontent.com/109578564/197543853-8b88ab5d-a7fc-4123-b173-07c987ab5d8e.png)
 
-## Footer
+### Footer
 ![image](https://user-images.githubusercontent.com/109578564/197544578-8d6fad01-afa3-4f99-83bb-24308c798c91.png)
